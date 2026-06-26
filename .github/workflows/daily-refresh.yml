@@ -1,0 +1,56 @@
+name: ⏰ Scheduled Full Refresh
+
+on:
+  schedule:
+    # Runs every day at midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    name: Trigger All Update Workflows
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      actions: write
+
+    steps:
+      - name: Trigger Snake Update
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'snake.yml',
+              ref: 'main'
+            });
+            console.log('✅ Snake workflow triggered');
+
+      - name: Trigger Metrics Update
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'metrics.yml',
+              ref: 'main'
+            });
+            console.log('✅ Metrics workflow triggered');
+
+      - name: Trigger Profile Refresh
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'profile-update.yml',
+              ref: 'main'
+            });
+            console.log('✅ Profile refresh triggered');
+
+      - name: Log
+        run: echo "🚀 All workflows triggered at $(date -u '+%Y-%m-%d %H:%M UTC')"

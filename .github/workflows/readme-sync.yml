@@ -1,0 +1,60 @@
+name: 🔁 README Integrity Check
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+  pull_request:
+    branches: [main]
+    paths:
+      - "README.md"
+
+jobs:
+  lint-readme:
+    name: Validate README links & structure
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check README exists and is non-empty
+        run: |
+          if [ ! -f README.md ]; then
+            echo "❌ README.md not found"
+            exit 1
+          fi
+          LINES=$(wc -l < README.md)
+          echo "✅ README.md found — ${LINES} lines"
+          if [ "$LINES" -lt 100 ]; then
+            echo "⚠️  README seems too short (< 100 lines). Check if it was accidentally truncated."
+          fi
+
+      - name: Check required sections exist
+        run: |
+          REQUIRED_SECTIONS=(
+            "About Me"
+            "Tech Stack"
+            "Featured Projects"
+            "Research Publications"
+            "Experience"
+            "Achievements"
+            "GitHub Analytics"
+            "Coding Profiles"
+          )
+          MISSING=0
+          for section in "${REQUIRED_SECTIONS[@]}"; do
+            if ! grep -q "$section" README.md; then
+              echo "❌ Missing section: $section"
+              MISSING=$((MISSING + 1))
+            else
+              echo "✅ Found: $section"
+            fi
+          done
+          if [ "$MISSING" -gt 0 ]; then
+            echo "⚠️  ${MISSING} section(s) missing. Review README."
+          fi
+
+      - name: Summary
+        run: echo "README sync check complete ✅"
