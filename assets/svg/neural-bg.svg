@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="400" height="200">
+  <defs>
+    <linearGradient id="nb" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#0f0a2e"/>
+    </linearGradient>
+    <filter id="ng">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="400" height="200" fill="url(#nb)"/>
+  <!-- nodes -->
+  <circle cx="40"  cy="50"  r="4" fill="#6366f1" filter="url(#ng)"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" repeatCount="indefinite"/></circle>
+  <circle cx="40"  cy="100" r="4" fill="#6366f1" filter="url(#ng)"><animate attributeName="opacity" values="1;0.4;1" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="40"  cy="150" r="4" fill="#6366f1" filter="url(#ng)"><animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="120" cy="35"  r="5" fill="#8b5cf6" filter="url(#ng)"><animate attributeName="opacity" values="1;0.3;1" dur="3.5s" repeatCount="indefinite"/></circle>
+  <circle cx="120" cy="85"  r="5" fill="#8b5cf6" filter="url(#ng)"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.8s" repeatCount="indefinite"/></circle>
+  <circle cx="120" cy="135" r="5" fill="#8b5cf6" filter="url(#ng)"><animate attributeName="opacity" values="0.7;1;0.7" dur="2.2s" repeatCount="indefinite"/></circle>
+  <circle cx="120" cy="165" r="5" fill="#8b5cf6" filter="url(#ng)"><animate attributeName="opacity" values="1;0.5;1" dur="3.2s" repeatCount="indefinite"/></circle>
+  <circle cx="200" cy="60"  r="4" fill="#06b6d4" filter="url(#ng)"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.7s" repeatCount="indefinite"/></circle>
+  <circle cx="200" cy="110" r="6" fill="#06b6d4" filter="url(#ng)"><animate attributeName="opacity" values="1;0.4;1" dur="3.1s" repeatCount="indefinite"/></circle>
+  <circle cx="200" cy="150" r="4" fill="#06b6d4" filter="url(#ng)"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite"/></circle>
+  <circle cx="280" cy="50"  r="5" fill="#a78bfa" filter="url(#ng)"><animate attributeName="opacity" values="0.6;1;0.6" dur="2.9s" repeatCount="indefinite"/></circle>
+  <circle cx="280" cy="120" r="5" fill="#a78bfa" filter="url(#ng)"><animate attributeName="opacity" values="1;0.3;1" dur="2.3s" repeatCount="indefinite"/></circle>
+  <circle cx="280" cy="165" r="5" fill="#a78bfa" filter="url(#ng)"><animate attributeName="opacity" values="0.4;1;0.4" dur="3.7s" repeatCount="indefinite"/></circle>
+  <circle cx="360" cy="80"  r="4" fill="#6366f1" filter="url(#ng)"><animate attributeName="opacity" values="1;0.4;1" dur="2.8s" repeatCount="indefinite"/></circle>
+  <circle cx="360" cy="130" r="6" fill="#6366f1" filter="url(#ng)"><animate attributeName="opacity" values="0.4;1;0.4" dur="3.1s" repeatCount="indefinite"/></circle>
+  <!-- connections -->
+  <g opacity="0.12" stroke="#6366f1" stroke-width="0.6">
+    <line x1="40" y1="50" x2="120" y2="35"/><line x1="40" y1="50" x2="120" y2="85"/>
+    <line x1="40" y1="100" x2="120" y2="85"/><line x1="40" y1="100" x2="120" y2="135"/>
+    <line x1="40" y1="150" x2="120" y2="135"/><line x1="40" y1="150" x2="120" y2="165"/>
+    <line x1="120" y1="35" x2="200" y2="60"/><line x1="120" y1="85" x2="200" y2="60"/>
+    <line x1="120" y1="85" x2="200" y2="110"/><line x1="120" y1="135" x2="200" y2="110"/>
+    <line x1="120" y1="135" x2="200" y2="150"/><line x1="120" y1="165" x2="200" y2="150"/>
+    <line x1="200" y1="60" x2="280" y2="50"/><line x1="200" y1="110" x2="280" y2="50"/>
+    <line x1="200" y1="110" x2="280" y2="120"/><line x1="200" y1="150" x2="280" y2="120"/>
+    <line x1="200" y1="150" x2="280" y2="165"/><line x1="280" y1="50" x2="360" y2="80"/>
+    <line x1="280" y1="120" x2="360" y2="80"/><line x1="280" y1="120" x2="360" y2="130"/>
+    <line x1="280" y1="165" x2="360" y2="130"/>
+  </g>
+  <!-- pulse -->
+  <circle r="3" fill="#6366f1" opacity="0.9" filter="url(#ng)">
+    <animateMotion dur="3s" repeatCount="indefinite" path="M40,100 L120,85 L200,110 L280,120 L360,130"/>
+  </circle>
+  <circle r="2.5" fill="#06b6d4" opacity="0.9" filter="url(#ng)">
+    <animateMotion dur="4s" repeatCount="indefinite" begin="1.5s" path="M40,50 L120,35 L200,60 L280,50 L360,80"/>
+  </circle>
+</svg>

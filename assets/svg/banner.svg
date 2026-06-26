@@ -1,0 +1,242 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#0f0a2e"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#8b5cf6;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366f1"/>
+      <stop offset="50%" style="stop-color:#8b5cf6"/>
+      <stop offset="100%" style="stop-color:#06b6d4"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bgGrad)"/>
+
+  <!-- Grid lines -->
+  <g opacity="0.04" stroke="#6366f1" stroke-width="0.5">
+    <line x1="0" y1="50" x2="1200" y2="50"/>
+    <line x1="0" y1="100" x2="1200" y2="100"/>
+    <line x1="0" y1="150" x2="1200" y2="150"/>
+    <line x1="0" y1="200" x2="1200" y2="200"/>
+    <line x1="0" y1="250" x2="1200" y2="250"/>
+    <line x1="100" y1="0" x2="100" y2="300"/>
+    <line x1="200" y1="0" x2="200" y2="300"/>
+    <line x1="300" y1="0" x2="300" y2="300"/>
+    <line x1="400" y1="0" x2="400" y2="300"/>
+    <line x1="500" y1="0" x2="500" y2="300"/>
+    <line x1="600" y1="0" x2="600" y2="300"/>
+    <line x1="700" y1="0" x2="700" y2="300"/>
+    <line x1="800" y1="0" x2="800" y2="300"/>
+    <line x1="900" y1="0" x2="900" y2="300"/>
+    <line x1="1000" y1="0" x2="1000" y2="300"/>
+    <line x1="1100" y1="0" x2="1100" y2="300"/>
+  </g>
+
+  <!-- Neural network nodes - left cluster -->
+  <g opacity="0.6">
+    <!-- Layer 1 -->
+    <circle cx="80" cy="80" r="5" fill="#6366f1" filter="url(#glow)">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="80" cy="150" r="5" fill="#6366f1" filter="url(#glow)">
+      <animate attributeName="opacity" values="1;0.4;1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="80" cy="220" r="5" fill="#6366f1" filter="url(#glow)">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <!-- Layer 2 -->
+    <circle cx="170" cy="60" r="6" fill="#8b5cf6" filter="url(#glow)">
+      <animate attributeName="opacity" values="1;0.3;1" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="170" cy="120" r="6" fill="#8b5cf6" filter="url(#glow)">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="170" cy="180" r="6" fill="#8b5cf6" filter="url(#glow)">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="170" cy="240" r="6" fill="#8b5cf6" filter="url(#glow)">
+      <animate attributeName="opacity" values="1;0.5;1" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <!-- Layer 3 -->
+    <circle cx="260" cy="90" r="5" fill="#06b6d4" filter="url(#glow)">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="2.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="260" cy="150" r="7" fill="#06b6d4" filter="url(#glow)">
+      <animate attributeName="opacity" values="1;0.4;1" dur="3.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="260" cy="210" r="5" fill="#06b6d4" filter="url(#glow)">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Neural network connections - left -->
+  <g opacity="0.15" stroke="#6366f1" stroke-width="0.8">
+    <line x1="80" y1="80" x2="170" y2="60"/>
+    <line x1="80" y1="80" x2="170" y2="120"/>
+    <line x1="80" y1="80" x2="170" y2="180"/>
+    <line x1="80" y1="150" x2="170" y2="60"/>
+    <line x1="80" y1="150" x2="170" y2="120"/>
+    <line x1="80" y1="150" x2="170" y2="180"/>
+    <line x1="80" y1="150" x2="170" y2="240"/>
+    <line x1="80" y1="220" x2="170" y2="180"/>
+    <line x1="80" y1="220" x2="170" y2="240"/>
+    <line x1="170" y1="60" x2="260" y2="90"/>
+    <line x1="170" y1="60" x2="260" y2="150"/>
+    <line x1="170" y1="120" x2="260" y2="90"/>
+    <line x1="170" y1="120" x2="260" y2="150"/>
+    <line x1="170" y1="180" x2="260" y2="150"/>
+    <line x1="170" y1="180" x2="260" y2="210"/>
+    <line x1="170" y1="240" x2="260" y2="210"/>
+  </g>
+
+  <!-- Right neural cluster -->
+  <g opacity="0.6">
+    <circle cx="940" cy="70" r="5" fill="#6366f1" filter="url(#glow)">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="940" cy="150" r="5" fill="#6366f1" filter="url(#glow)">
+      <animate attributeName="opacity" values="1;0.4;1" dur="2.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="940" cy="230" r="5" fill="#6366f1" filter="url(#glow)">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="3.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1030" cy="100" r="6" fill="#8b5cf6" filter="url(#glow)">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1030" cy="160" r="6" fill="#8b5cf6" filter="url(#glow)">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="3.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1030" cy="220" r="6" fill="#8b5cf6" filter="url(#glow)">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1120" cy="80" r="5" fill="#06b6d4" filter="url(#glow)">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="3.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1120" cy="150" r="7" fill="#06b6d4" filter="url(#glow)">
+      <animate attributeName="opacity" values="1;0.4;1" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1120" cy="220" r="5" fill="#06b6d4" filter="url(#glow)">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="3.1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Right connections -->
+  <g opacity="0.15" stroke="#8b5cf6" stroke-width="0.8">
+    <line x1="940" y1="70" x2="1030" y2="100"/>
+    <line x1="940" y1="70" x2="1030" y2="160"/>
+    <line x1="940" y1="150" x2="1030" y2="100"/>
+    <line x1="940" y1="150" x2="1030" y2="160"/>
+    <line x1="940" y1="150" x2="1030" y2="220"/>
+    <line x1="940" y1="230" x2="1030" y2="160"/>
+    <line x1="940" y1="230" x2="1030" y2="220"/>
+    <line x1="1030" y1="100" x2="1120" y2="80"/>
+    <line x1="1030" y1="100" x2="1120" y2="150"/>
+    <line x1="1030" y1="160" x2="1120" y2="80"/>
+    <line x1="1030" y1="160" x2="1120" y2="150"/>
+    <line x1="1030" y1="160" x2="1120" y2="220"/>
+    <line x1="1030" y1="220" x2="1120" y2="150"/>
+    <line x1="1030" y1="220" x2="1120" y2="220"/>
+  </g>
+
+  <!-- Animated data pulse on connections -->
+  <circle r="3" fill="#6366f1" opacity="0.9" filter="url(#glow)">
+    <animateMotion dur="3s" repeatCount="indefinite" path="M80,150 L170,120 L260,150"/>
+  </circle>
+  <circle r="3" fill="#8b5cf6" opacity="0.9" filter="url(#glow)">
+    <animateMotion dur="4s" repeatCount="indefinite" begin="1s" path="M80,80 L170,60 L260,90"/>
+  </circle>
+  <circle r="3" fill="#06b6d4" opacity="0.9" filter="url(#glow)">
+    <animateMotion dur="3.5s" repeatCount="indefinite" begin="0.5s" path="M940,150 L1030,160 L1120,150"/>
+  </circle>
+  <circle r="3" fill="#a78bfa" opacity="0.9" filter="url(#glow)">
+    <animateMotion dur="2.8s" repeatCount="indefinite" begin="1.5s" path="M940,70 L1030,100 L1120,80"/>
+  </circle>
+
+  <!-- Decorative top gradient line -->
+  <rect x="0" y="0" width="1200" height="2" fill="url(#lineGrad)"/>
+
+  <!-- Main Title -->
+  <text x="600" y="125" text-anchor="middle" font-family="'Segoe UI', -apple-system, sans-serif" font-size="52" font-weight="800" fill="url(#textGrad)" filter="url(#softGlow)" letter-spacing="-1">
+    Manav Agarwal
+    <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+  </text>
+
+  <!-- Subtitle -->
+  <text x="600" y="168" text-anchor="middle" font-family="'Segoe UI', monospace, sans-serif" font-size="17" fill="#a5b4fc" letter-spacing="3" font-weight="500">
+    AI ENGINEER  ·  ML ENGINEER  ·  SOFTWARE ENGINEER
+    <animate attributeName="opacity" values="0;1" dur="1.8s" fill="freeze"/>
+  </text>
+
+  <!-- University Tag -->
+  <text x="600" y="200" text-anchor="middle" font-family="'Segoe UI', monospace, sans-serif" font-size="13" fill="#6b7280" letter-spacing="1">
+    B.E. AI &amp; Machine Learning · Chandigarh University 2023–2027
+    <animate attributeName="opacity" values="0;1" dur="2.4s" fill="freeze"/>
+  </text>
+
+  <!-- Pill badges row -->
+  <g transform="translate(600,230)" text-anchor="middle">
+    <!-- Microsoft badge -->
+    <rect x="-290" y="-14" width="120" height="24" rx="12" fill="#0078d4" fill-opacity="0.15" stroke="#0078d4" stroke-width="0.8" stroke-opacity="0.6"/>
+    <text x="-230" y="5" font-family="'Segoe UI', sans-serif" font-size="10" fill="#60a5fa" font-weight="600">☁ MICROSOFT INTERN</text>
+
+    <!-- Papers badge -->
+    <rect x="-150" y="-14" width="100" height="24" rx="12" fill="#6366f1" fill-opacity="0.15" stroke="#6366f1" stroke-width="0.8" stroke-opacity="0.6"/>
+    <text x="-100" y="5" font-family="'Segoe UI', sans-serif" font-size="10" fill="#a5b4fc" font-weight="600">📄 3× SPRINGER</text>
+
+    <!-- DSA badge -->
+    <rect x="-30" y="-14" width="90" height="24" rx="12" fill="#06b6d4" fill-opacity="0.15" stroke="#06b6d4" stroke-width="0.8" stroke-opacity="0.6"/>
+    <text x="15" y="5" font-family="'Segoe UI', sans-serif" font-size="10" fill="#67e8f9" font-weight="600">💡 600+ DSA</text>
+
+    <!-- Hackathon badge -->
+    <rect x="80" y="-14" width="110" height="24" rx="12" fill="#8b5cf6" fill-opacity="0.15" stroke="#8b5cf6" stroke-width="0.8" stroke-opacity="0.6"/>
+    <text x="135" y="5" font-family="'Segoe UI', sans-serif" font-size="10" fill="#c4b5fd" font-weight="600">🏆 HACKATHON WINNER</text>
+
+    <!-- Gen AI badge -->
+    <rect x="210" y="-14" width="105" height="24" rx="12" fill="#10b981" fill-opacity="0.15" stroke="#10b981" stroke-width="0.8" stroke-opacity="0.6"/>
+    <text x="262" y="5" font-family="'Segoe UI', sans-serif" font-size="10" fill="#6ee7b7" font-weight="600">🤖 GENERATIVE AI</text>
+
+    <animate attributeName="opacity" values="0;1" dur="3s" fill="freeze"/>
+  </g>
+
+  <!-- Bottom gradient line -->
+  <rect x="0" y="298" width="1200" height="2" fill="url(#lineGrad)"/>
+
+  <!-- Floating particles -->
+  <circle cx="350" cy="40" r="1.5" fill="#6366f1" opacity="0.6">
+    <animate attributeName="cy" values="40;20;40" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0.2;0.6" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="450" cy="260" r="1" fill="#8b5cf6" opacity="0.5">
+    <animate attributeName="cy" values="260;280;260" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.1;0.5" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="750" cy="30" r="2" fill="#06b6d4" opacity="0.4">
+    <animate attributeName="cy" values="30;10;30" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.1;0.4" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="850" cy="270" r="1.5" fill="#a78bfa" opacity="0.5">
+    <animate attributeName="cy" values="270;290;270" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>
