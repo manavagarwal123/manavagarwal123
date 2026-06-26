@@ -51,50 +51,124 @@
 
 <br/>
 
+
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                       ABOUT ME                             -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%" valign="top">
+<td width="52%" valign="top">
 
 ## 🧠 &nbsp;About Me
 
-<br/>
+```python
+#!/usr/bin/env python3
+# manav_agarwal.py — Who am I?
 
-<table>
-<tr><td>🎓</td><td><b>B.E. AI & ML</b> · Chandigarh University · 2023–27</td></tr>
-<tr><td>💼</td><td><b>ML Intern</b> · Microsoft AICTE · Azure ML</td></tr>
-<tr><td>📄</td><td><b>3× Published</b> · Springer & IJSRD</td></tr>
-<tr><td>🏆</td><td><b>Hackathon Winner</b> · Build with AI Shipathon</td></tr>
-<tr><td>🥇</td><td><b>Top 50</b> · Microsoft AlgoVerse</td></tr>
-<tr><td>☁️</td><td><b>Azure Fundamentals</b> Certified</td></tr>
-<tr><td>🤖</td><td><b>Google Generative AI</b> Certified</td></tr>
-<tr><td>⚡</td><td><b>600+ DSA</b> Problems Solved</td></tr>
-<tr><td>📍</td><td>Punjab, India 🇮🇳</td></tr>
-</table>
+class ManavAgarwal:
+    """
+    AI Engineer | ML Engineer | Software Engineer
+    Building systems where intelligence meets scale.
+    """
 
-<br/>
+    IDENTITY = {
+        "name"      : "Manav Agarwal",
+        "role"      : ["AI Engineer", "ML Engineer",
+                       "Software Engineer"],
+        "university": "Chandigarh University",
+        "degree"    : "B.E. AI & Machine Learning",
+        "batch"     : "2023 → 2027",
+        "location"  : "Punjab, India 🇮🇳",
+    }
 
-> *"Building AI that actually ships."* 🚀
+    STRENGTHS = [
+        "System Design",
+        "Backend Engineering",
+        "Machine Learning",
+        "LLM / Agentic AI",
+        "Computer Vision",
+        "Research & Publications",
+    ]
+
+    EXPERIENCE = {
+        "Microsoft AICTE": {
+            "role"  : "Machine Learning Intern",
+            "stack" : ["Azure ML", "Pipelines",
+                       "Hyperparameter Tuning",
+                       "Model Deployment"],
+        }
+    }
+
+    RESEARCH = {
+        "publisher" : "Springer",
+        "papers"    : 3,
+        "domains"   : [
+            "AI Nanorobots",
+            "CNN Eye Disease Detection",
+            "IoT Water Level Monitoring",
+        ],
+    }
+
+    DSA = {"solved": "600+", "platforms": ["LeetCode",
+           "Codeforces", "CodeChef", "HackerRank"]}
+
+    def current_focus(self):
+        return [
+            "Multi-Agent AI with CrewAI + LangGraph",
+            "RAG Pipelines & Vector DBs",
+            "MCP — Model Context Protocol",
+            "LLM Fine-tuning (LoRA, RLHF)",
+            "Production AI on Azure",
+        ]
+
+    def __repr__(self):
+        return "Building AI that actually ships. 🚀"
+
+
+me = ManavAgarwal()
+print(me)
+# → Building AI that actually ships. 🚀
+```
 
 </td>
 <td width="4%"></td>
-<td width="46%" valign="top">
+<td width="44%" valign="top">
+
+## ⚡ &nbsp;Quick Snapshot
+
+<br/>
+
+| | |
+|---|---|
+| 🎓 | **B.E. AI & ML** — Chandigarh University `2023–27` |
+| 💼 | **ML Intern** — Microsoft AICTE · Azure ML |
+| 🔬 | **3 Springer Papers** — AI · CV · IoT |
+| 🏆 | **Hackathon Winner** — Build with AI Shipathon |
+| 🥇 | **Top 50** — Microsoft AlgoVerse |
+| ☁️ | **Azure Fundamentals** Certified |
+| 🤖 | **Google Generative AI** Certified |
+| 💡 | **600+ DSA** Problems Solved |
+| 📦 | Open to **research collabs & AI projects** |
+
+<br/>
 
 ## 🎯 &nbsp;Now Building
 
 <br/>
 
-<table>
-<tr><td>🤖</td><td>Multi-Agent AI · CrewAI + LangGraph</td></tr>
-<tr><td>🔗</td><td>RAG Pipelines · LlamaIndex + ChromaDB</td></tr>
-<tr><td>🌐</td><td>MCP integrations for agentic workflows</td></tr>
-<tr><td>⚙️</td><td>Azure ML production deployment</td></tr>
-<tr><td>📝</td><td>Research Paper #4</td></tr>
-<tr><td>🌍</td><td>Open Source contributions</td></tr>
-</table>
+```
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│  🤖  Multi-Agent AI systems (CrewAI + LangGraph)│
+│  🔗  RAG pipelines with LlamaIndex + ChromaDB   │
+│  🌐  MCP integrations for agentic workflows     │
+│  ⚙️   Azure ML production deployment            │
+│  📝  Research Paper #4                          │
+│  🌍  Open Source contributions                  │
+│                                                 │
+└─────────────────────────────────────────────────┘
+```
 
 <br/>
 
@@ -118,6 +192,7 @@
 <img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/divider.svg" width="100%"/>
 
 <br/>
+
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                      TECH STACK                            -->
