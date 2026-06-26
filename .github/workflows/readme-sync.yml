@@ -39,9 +39,11 @@ jobs:
             "Featured Projects"
             "Research Publications"
             "Experience"
+            "Education"
             "Achievements"
             "GitHub Analytics"
-            "Coding Profiles"
+            "Competitive Programming"
+            "Open Source"
           )
           MISSING=0
           for section in "${REQUIRED_SECTIONS[@]}"; do

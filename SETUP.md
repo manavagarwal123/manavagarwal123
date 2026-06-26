@@ -2,7 +2,7 @@
 
 ## Step 1 · Create the profile repository
 
-1. On GitHub, create a **new repository** named exactly: `manav-agarwal`
+1. On GitHub, create a **new repository** named exactly: `manavagarwal123`
    (must match your GitHub username exactly)
 2. Make it **Public**
 3. Do **not** initialize with a README (you'll push this one)
@@ -17,7 +17,7 @@ git init
 git add .
 git commit -m "feat: initialize premium github profile"
 git branch -M main
-git remote add origin https://github.com/manav-agarwal/manav-agarwal.git
+git remote add origin https://github.com/manavagarwal123/manavagarwal123.git
 git push -u origin main
 ```
 
@@ -62,12 +62,12 @@ Find and replace these placeholders in `README.md`:
 
 | Placeholder | Replace with |
 |---|---|
-| `manav-agarwal` (username) | Your actual GitHub username |
-| `manavagarwal@email.com` | Your real email |
-| `linkedin.com/in/manav-agarwal` | Your LinkedIn URL |
-| `leetcode.com/manav-agarwal` | Your LeetCode username |
-| `codolio.com/profile/manav-agarwal` | Your Codolio profile |
-| `codeforces.com/profile/manav-agarwal` | Your Codeforces handle |
+| `manavagarwal123` (username) | Your actual GitHub username |
+| `manavag70@gmail.com` | Your real email |
+| `www.linkedin.com/in/manavagarwal70/` | Your LinkedIn URL |
+| `leetcode.com/u/manavagarwal28/` | Your LeetCode username |
+| `codolio.com/profile/manavagarwal123` | Your Codolio profile |
+| `codeforces.com/profile/manavagarwal123` | Your Codeforces handle |
 | Springer paper links | Your actual paper DOIs |
 
 ---

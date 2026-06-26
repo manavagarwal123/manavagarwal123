@@ -1,7 +1,7 @@
 <!-- ============================================================ -->
 <!--            MANAV AGARWAL — GITHUB PROFILE README            -->
 <!--        AI Engineer · ML Engineer · Software Engineer        -->
-<!--         github.com/manav-agarwal  ·  Updated 2026           -->
+<!--         github.com/manavagarwal123  ·  Updated 2026           -->
 <!-- ============================================================ -->
 
 <div align="center">
@@ -26,17 +26,18 @@
 <!--                     SOCIAL LINKS ROW                       -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manav-agarwal)
-[![LeetCode](https://img.shields.io/badge/LeetCode-600%2B%20Solved-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/manav-agarwal)
-[![Codolio](https://img.shields.io/badge/Codolio-Portfolio-6366f1?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/manav-agarwal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manavagarwal@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manav-agarwal)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download-6366f1?style=for-the-badge&logoColor=white)](https://github.com/manavagarwal123/manavagarwal123/raw/main/assets/Manav_Agarwal_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manavagarwal70/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-600%2B%20Solved-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/manavagarwal28/)
+[![Codolio](https://img.shields.io/badge/Codolio-Portfolio-6366f1?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/manavagarwal123)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manavag70@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manavagarwal123)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=manav-agarwal&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)&nbsp;
-![Followers](https://img.shields.io/github/followers/manav-agarwal?style=for-the-badge&color=8b5cf6&label=FOLLOWERS&logo=github&logoColor=white)&nbsp;
-![Stars](https://img.shields.io/github/stars/manav-agarwal?style=for-the-badge&color=06b6d4&label=TOTAL+STARS&logo=github&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=manavagarwal123&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)&nbsp;
+![Followers](https://img.shields.io/github/followers/manavagarwal123?style=for-the-badge&color=8b5cf6&label=FOLLOWERS&logo=github&logoColor=white)&nbsp;
+![Stars](https://img.shields.io/github/stars/manavagarwal123?style=for-the-badge&color=06b6d4&label=TOTAL+STARS&logo=github&logoColor=white)
 
 </div>
 
@@ -46,7 +47,7 @@
 <!--                     SECTION DIVIDER                        -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/manav-agarwal/manav-agarwal/main/assets/svg/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/divider.svg" width="100%"/>
 
 <br/>
 
@@ -174,12 +175,12 @@ print(me)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manav-agarwal)
-[![LeetCode](https://img.shields.io/badge/LeetCode-600%2B-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/manav-agarwal)
-[![Codolio](https://img.shields.io/badge/Codolio-Visit-6366f1?style=flat-square&logo=codeforces&logoColor=white)](https://codolio.com/profile/manav-agarwal)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Active-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/manav-agarwal)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5★-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://hackerrank.com/manav-agarwal)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:manavagarwal@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manavagarwal70/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-600%2B-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/manavagarwal28/)
+[![Codolio](https://img.shields.io/badge/Codolio-Visit-6366f1?style=flat-square&logo=codeforces&logoColor=white)](https://codolio.com/profile/manavagarwal123)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Active-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/manavagarwal123)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5★-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://hackerrank.com/manavagarwal123)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:manavag70@gmail.com)
 
 </td>
 </tr>
@@ -187,7 +188,7 @@ print(me)
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/manav-agarwal/manav-agarwal/main/assets/svg/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/divider.svg" width="100%"/>
 
 <br/>
 
@@ -198,6 +199,10 @@ print(me)
 <div align="center">
 
 ## 🛠️ &nbsp;Tech Stack
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/skills-animation.svg" width="90%" alt="Skills Animation"/>
 
 <br/>
 
@@ -250,7 +255,7 @@ print(me)
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/manav-agarwal/manav-agarwal/main/assets/svg/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/divider.svg" width="100%"/>
 
 <br/>
 
@@ -301,8 +306,8 @@ User Input → Orchestrator Agent
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-[![Code](https://img.shields.io/badge/GitHub-View_Code-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manav-agarwal/ai-startup-builder)
-[![Demo](https://img.shields.io/badge/Demo-Live_App-06b6d4?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/manav-agarwal/ai-startup-builder)
+[![Code](https://img.shields.io/badge/GitHub-View_Code-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manavagarwal123/ai-startup-builder)
+[![Demo](https://img.shields.io/badge/Demo-Live_App-06b6d4?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/manavagarwal123/ai-startup-builder)
 
 </div>
 
@@ -341,8 +346,8 @@ Data → Encoder
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![FFT](https://img.shields.io/badge/FFT-Signal_Processing-6366f1?style=flat-square)
 
-[![Code](https://img.shields.io/badge/GitHub-View_Code-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manav-agarwal/pixelsonic)
-[![Demo](https://img.shields.io/badge/Demo-Watch-06b6d4?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/manav-agarwal/pixelsonic)
+[![Code](https://img.shields.io/badge/GitHub-View_Code-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manavagarwal123/pixelsonic)
+[![Demo](https://img.shields.io/badge/Demo-Watch-06b6d4?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/manavagarwal123/pixelsonic)
 
 </div>
 
@@ -387,8 +392,8 @@ Server (Node.js + Express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-[![Code](https://img.shields.io/badge/GitHub-View_Code-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manav-agarwal/realtime-chat)
-[![Demo](https://img.shields.io/badge/Demo-Live-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/manav-agarwal/realtime-chat)
+[![Code](https://img.shields.io/badge/GitHub-View_Code-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manavagarwal123/realtime-chat)
+[![Demo](https://img.shields.io/badge/Demo-Live-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/manavagarwal123/realtime-chat)
 
 </div>
 
@@ -429,8 +434,8 @@ Audio Input → Whisper (STT)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-[![Code](https://img.shields.io/badge/GitHub-View_Code-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manav-agarwal/tranzcendia)
-[![Demo](https://img.shields.io/badge/Demo-Live-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/manav-agarwal/tranzcendia)
+[![Code](https://img.shields.io/badge/GitHub-View_Code-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manavagarwal123/tranzcendia)
+[![Demo](https://img.shields.io/badge/Demo-Live-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/manavagarwal123/tranzcendia)
 
 </div>
 
@@ -460,8 +465,8 @@ Audio Input → Whisper (STT)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-[![Code](https://img.shields.io/badge/GitHub-View_Code-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manav-agarwal/sign-language-detection)
-[![Demo](https://img.shields.io/badge/Demo-Watch-06b6d4?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/manav-agarwal/sign-language-detection)
+[![Code](https://img.shields.io/badge/GitHub-View_Code-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manavagarwal123/sign-language-detection)
+[![Demo](https://img.shields.io/badge/Demo-Watch-06b6d4?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/manavagarwal123/sign-language-detection)
 
 </div>
 
@@ -486,8 +491,8 @@ Audio Input → Whisper (STT)
 ![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-[![Code](https://img.shields.io/badge/GitHub-View_Code-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manav-agarwal/heart-disease-prediction)
-[![Paper](https://img.shields.io/badge/Springer-Paper-006400?style=for-the-badge&logo=springer&logoColor=white)](https://springer.com)
+[![Code](https://img.shields.io/badge/GitHub-View_Code-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manavagarwal123/heart-disease-prediction)
+[![Paper](https://img.shields.io/badge/IJSRD-Paper-0066CC?style=for-the-badge&logoColor=white)](https://ijsrd.com/Article.php?manuscript=IJSRDV12I110041)
 
 </div>
 
@@ -497,7 +502,7 @@ Audio Input → Whisper (STT)
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/manav-agarwal/manav-agarwal/main/assets/svg/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/divider.svg" width="100%"/>
 
 <br/>
 
@@ -541,7 +546,7 @@ Audio Input → Whisper (STT)
 <sub>🧬 Biomedical AI<br/>🤖 Reinforcement Learning<br/>🔬 Nanotechnology</sub>
 </td>
 <td align="center">
-<a href="https://springer.com"><img src="https://img.shields.io/badge/Springer-Read-006400?style=for-the-badge&logo=springer&logoColor=white"/></a>
+<a href="https://link.springer.com/chapter/10.1007/978-981-96-6303-3_2"><img src="https://img.shields.io/badge/Springer-Read-006400?style=for-the-badge&logo=springer&logoColor=white"/></a>
 </td>
 </tr>
 <tr>
@@ -554,7 +559,7 @@ Audio Input → Whisper (STT)
 <sub>👁️ Computer Vision<br/>🏥 Medical AI<br/>🧠 Deep Learning</sub>
 </td>
 <td align="center">
-<a href="https://springer.com"><img src="https://img.shields.io/badge/Springer-Read-006400?style=for-the-badge&logo=springer&logoColor=white"/></a>
+<a href="https://ijsrd.com/Article.php?manuscript=IJSRDV12I110041"><img src="https://img.shields.io/badge/IJSRD-Read_Paper-0066CC?style=for-the-badge&logoColor=white"/></a>
 </td>
 </tr>
 <tr>
@@ -567,7 +572,7 @@ Audio Input → Whisper (STT)
 <sub>🌊 IoT / Edge AI<br/>☁️ Azure IoT<br/>📡 Embedded Systems</sub>
 </td>
 <td align="center">
-<a href="https://springer.com"><img src="https://img.shields.io/badge/Springer-Read-006400?style=for-the-badge&logo=springer&logoColor=white"/></a>
+<a href="https://link.springer.com/chapter/10.1007/978-981-96-6297-5_8"><img src="https://img.shields.io/badge/Springer-Read-006400?style=for-the-badge&logo=springer&logoColor=white"/></a>
 </td>
 </tr>
 </tbody>
@@ -575,7 +580,7 @@ Audio Input → Whisper (STT)
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/manav-agarwal/manav-agarwal/main/assets/svg/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/divider.svg" width="100%"/>
 
 <br/>
 
@@ -627,7 +632,7 @@ Audio Input → Whisper (STT)
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/manav-agarwal/manav-agarwal/main/assets/svg/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/divider.svg" width="100%"/>
 
 <br/>
 
@@ -670,7 +675,7 @@ Audio Input → Whisper (STT)
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/manav-agarwal/manav-agarwal/main/assets/svg/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/divider.svg" width="100%"/>
 
 <br/>
 
@@ -765,7 +770,7 @@ Easy + Medium + Hard · Algorithms, graphs, DP, trees, system design
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/manav-agarwal/manav-agarwal/main/assets/svg/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/divider.svg" width="100%"/>
 
 <br/>
 
@@ -779,21 +784,21 @@ Easy + Medium + Hard · Algorithms, graphs, DP, trees, system design
 
 <br/>
 
-<a href="https://github.com/manav-agarwal">
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=manav-agarwal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=a5b4fc&ring_color=6366f1&border_radius=12" alt="GitHub Stats"/>
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manav-agarwal&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=a5b4fc&border_radius=12" alt="Top Languages"/>
+<a href="https://github.com/manavagarwal123">
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=manavagarwal123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=a5b4fc&ring_color=6366f1&border_radius=12" alt="GitHub Stats"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavagarwal123&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=a5b4fc&border_radius=12" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
 <a href="https://git.io/streak-stats">
-<img width="68%" src="https://streak-stats.demolab.com/?user=manav-agarwal&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6&currStreakLabel=06b6d4&sideLabels=6366f1&dates=6b7280&stroke=6366f1&border_radius=12" alt="GitHub Streak"/>
+<img width="68%" src="https://streak-stats.demolab.com/?user=manavagarwal123&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6&currStreakLabel=06b6d4&sideLabels=6366f1&dates=6b7280&stroke=6366f1&border_radius=12" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/manav-agarwal">
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=manav-agarwal&bg_color=0d1117&color=a5b4fc&line=6366f1&point=8b5cf6&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Graph%20·%20manav-agarwal&radius=12" alt="Contribution Graph"/>
+<a href="https://github.com/manavagarwal123">
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=manavagarwal123&bg_color=0d1117&color=a5b4fc&line=6366f1&point=8b5cf6&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Graph%20·%20manavagarwal123&radius=12" alt="Contribution Graph"/>
 </a>
 
 </div>
@@ -808,11 +813,11 @@ Easy + Medium + Hard · Algorithms, graphs, DP, trees, system design
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/manav-agarwal/manav-agarwal/output/github-contribution-grid-snake-dark.svg"/>
+    srcset="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/manav-agarwal/manav-agarwal/output/github-contribution-grid-snake.svg"/>
+    srcset="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/output/github-contribution-grid-snake.svg"/>
   <img alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/manav-agarwal/manav-agarwal/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/output/github-contribution-grid-snake-dark.svg"
     width="96%"/>
 </picture>
 
@@ -820,7 +825,7 @@ Easy + Medium + Hard · Algorithms, graphs, DP, trees, system design
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/manav-agarwal/manav-agarwal/main/assets/svg/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/divider.svg" width="100%"/>
 
 <br/>
 
@@ -834,13 +839,13 @@ Easy + Medium + Hard · Algorithms, graphs, DP, trees, system design
 
 <br/>
 
-<img src="assets/metrics/base.svg" width="49%" alt="Base Metrics"/>
-<img src="assets/metrics/languages.svg" width="49%" alt="Language Metrics"/>
+<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/metrics/base.svg" width="49%" alt="Base Metrics"/>
+<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/metrics/languages.svg" width="49%" alt="Language Metrics"/>
 
 <br/>
 
-<img src="assets/metrics/habits.svg" width="49%" alt="Coding Habits"/>
-<img src="assets/metrics/calendar.svg" width="49%" alt="Contribution Calendar"/>
+<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/metrics/habits.svg" width="49%" alt="Coding Habits"/>
+<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/metrics/calendar.svg" width="49%" alt="Contribution Calendar"/>
 
 </div>
 
@@ -856,20 +861,20 @@ Easy + Medium + Hard · Algorithms, graphs, DP, trees, system design
 
 <br/>
 
-[![profile-summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manav-agarwal&theme=tokyonight)](https://github.com/manav-agarwal)
+[![profile-summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manavagarwal123&theme=tokyonight)](https://github.com/manavagarwal123)
 
 <br/>
 
-[![repos-per-language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manav-agarwal&theme=tokyonight)](https://github.com/manav-agarwal)
-[![commits-per-language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manav-agarwal&theme=tokyonight)](https://github.com/manav-agarwal)
-[![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manav-agarwal&theme=tokyonight)](https://github.com/manav-agarwal)
-[![productive-time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manav-agarwal&theme=tokyonight&utcOffset=5.5)](https://github.com/manav-agarwal)
+[![repos-per-language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manavagarwal123&theme=tokyonight)](https://github.com/manavagarwal123)
+[![commits-per-language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manavagarwal123&theme=tokyonight)](https://github.com/manavagarwal123)
+[![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manavagarwal123&theme=tokyonight)](https://github.com/manavagarwal123)
+[![productive-time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manavagarwal123&theme=tokyonight&utcOffset=5.5)](https://github.com/manavagarwal123)
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/manav-agarwal/manav-agarwal/main/assets/svg/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/divider.svg" width="100%"/>
 
 <br/>
 
@@ -883,21 +888,21 @@ Easy + Medium + Hard · Algorithms, graphs, DP, trees, system design
 
 <br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-600%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/manav-agarwal)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Active-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/manav-agarwal)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Active-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/manav_agarwal)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5★-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/manav-agarwal)
-[![Codolio](https://img.shields.io/badge/Codolio-Portfolio-6366f1?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/manav-agarwal)
+[![LeetCode](https://img.shields.io/badge/LeetCode-600%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/manavagarwal28/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Active-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/manavagarwal123)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Active-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/manavagarwal)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5★-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/manavagarwal123)
+[![Codolio](https://img.shields.io/badge/Codolio-Portfolio-6366f1?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/manavagarwal123)
 
 <br/>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/manav-agarwal?theme=dark&font=Nunito&ext=heatmap&border=0&radius=12)](https://leetcode.com/manav-agarwal)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/manavagarwal28?theme=dark&font=Nunito&ext=heatmap&border=0&radius=12)](https://leetcode.com/u/manavagarwal28/)
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/manav-agarwal/manav-agarwal/main/assets/svg/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/divider.svg" width="100%"/>
 
 <br/>
 
@@ -907,7 +912,7 @@ Easy + Medium + Hard · Algorithms, graphs, DP, trees, system design
 
 <div align="center">
 
-## 🗺️ &nbsp;2025–2026 Learning Roadmap
+## 🗺️ &nbsp;2026–2027 Learning Roadmap
 
 </div>
 
@@ -915,11 +920,13 @@ Easy + Medium + Hard · Algorithms, graphs, DP, trees, system design
 
 ```
   2025 Q1 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ✅  LangGraph · CrewAI · MCP · Multi-Agent Systems
-  2025 Q2 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ ⏳  RAG Pipelines · Vector DBs · LLM Fine-tuning basics
-  2025 Q3 ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ 🔄  Advanced RAG · LoRA · RLHF · Multimodal models
-  2025 Q4 ░░░░░░░░░░░░░░░░░░░░ 📍  Distributed ML Training · Model Compression · PEFT
-  2026 Q1 ░░░░░░░░░░░░░░░░░░░░ 🎯  Kubernetes for ML · Advanced System Design
-  2026 Q2 ░░░░░░░░░░░░░░░░░░░░ 🎯  AI Safety · Alignment · Autonomous Agent Infra
+  2025 Q2 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ✅  RAG Pipelines · Vector DBs · LLM Fine-tuning basics
+  2025 Q3 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ✅  Advanced RAG · LoRA · RLHF · Multimodal models
+  2025 Q4 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ✅  Distributed ML Training · Model Compression · PEFT
+  2026 Q1 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ✅  Kubernetes for ML · Advanced System Design
+  2026 Q2 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ ⏳  AI Safety · Alignment · Autonomous Agent Infra
+  2026 Q3 ░░░░░░░░░░░░░░░░░░░░ 🎯  MLOps Pipelines · Feature Stores · Model Monitoring
+  2027 Q1 ░░░░░░░░░░░░░░░░░░░░ 🎯  Research Paper #5 · Open Source AI Library v1.0
 ```
 
 <div align="center">
@@ -935,7 +942,7 @@ Easy + Medium + Hard · Algorithms, graphs, DP, trees, system design
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/manav-agarwal/manav-agarwal/main/assets/svg/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/divider.svg" width="100%"/>
 
 <br/>
 
@@ -995,7 +1002,7 @@ Open source is where I move from consumer to creator. I contribute to projects I
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/manav-agarwal/manav-agarwal/main/assets/svg/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/divider.svg" width="100%"/>
 
 <br/>
 
@@ -1040,7 +1047,7 @@ Open source is where I move from consumer to creator. I contribute to projects I
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/manav-agarwal/manav-agarwal/main/assets/svg/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/divider.svg" width="100%"/>
 
 <br/>
 
@@ -1060,7 +1067,7 @@ Open source is where I move from consumer to creator. I contribute to projects I
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/manav-agarwal/manav-agarwal/main/assets/svg/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/divider.svg" width="100%"/>
 
 <br/>
 
@@ -1080,11 +1087,11 @@ Open source is where I move from consumer to creator. I contribute to projects I
 
 | Channel | Link |
 |:-------:|:----:|
-| 💼 LinkedIn | [linkedin.com/in/manav-agarwal](https://linkedin.com/in/manav-agarwal) |
-| 📧 Email | [manavagarwal@email.com](mailto:manavagarwal@email.com) |
-| 🐙 GitHub | [github.com/manav-agarwal](https://github.com/manav-agarwal) |
-| 💻 Codolio | [codolio.com/profile/manav-agarwal](https://codolio.com/profile/manav-agarwal) |
-| 🧮 LeetCode | [leetcode.com/manav-agarwal](https://leetcode.com/manav-agarwal) |
+| 💼 LinkedIn | [www.linkedin.com/in/manavagarwal70/](https://www.linkedin.com/in/manavagarwal70/) |
+| 📧 Email | [manavag70@gmail.com](mailto:manavag70@gmail.com) |
+| 🐙 GitHub | [github.com/manavagarwal123](https://github.com/manavagarwal123) |
+| 💻 Codolio | [codolio.com/profile/manavagarwal123](https://codolio.com/profile/manavagarwal123) |
+| 🧮 LeetCode | [leetcode.com/u/manavagarwal28/](https://leetcode.com/u/manavagarwal28/) |
 
 </div>
 
@@ -1112,7 +1119,9 @@ If my code, research, or projects ever saved you time — a ⭐ on the repo is t
 <!--                     FOOTER                                 -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,35:8b5cf6,70:a78bfa,100:06b6d4&height=130&section=footer&text=Thanks%20for%20visiting%20·%20Let%27s%20connect!&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=72&desc=manav-agarwal%20%7C%20AI%20Engineer%20%7C%20India%20🇮🇳&descSize=13&descAlignY=90&descColor=c4b5fd" width="100%"/>
+<img src="https://raw.githubusercontent.com/manavagarwal123/manavagarwal123/main/assets/svg/footer-wave.svg" width="100%" alt="Footer Wave"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,35:8b5cf6,70:a78bfa,100:06b6d4&height=130&section=footer&text=Thanks%20for%20visiting%20·%20Let%27s%20connect!&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=72&desc=manavagarwal123%20%7C%20AI%20Engineer%20%7C%20India%20🇮🇳&descSize=13&descAlignY=90&descColor=c4b5fd" width="100%"/>
 
 <div align="center">
 
@@ -1120,7 +1129,7 @@ If my code, research, or projects ever saved you time — a ⭐ on the repo is t
 
 <!-- LAST_UPDATED -->🕐 Profile auto-refreshes daily via GitHub Actions<!-- END_UPDATED -->
 
-&nbsp;·&nbsp; Crafted with 💜 by **Manav Agarwal** &nbsp;·&nbsp; `manav-agarwal/manav-agarwal`
+&nbsp;·&nbsp; Crafted with 💜 by **Manav Agarwal** &nbsp;·&nbsp; `manavagarwal123/manavagarwal123`
 
 </sub>
 

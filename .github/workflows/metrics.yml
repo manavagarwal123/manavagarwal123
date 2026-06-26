@@ -21,10 +21,10 @@ jobs:
       # 1 · Base profile: header + activity + community
       # ────────────────────────────────────────────────
       - name: Base Metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: manav-agarwal
+          user: manavagarwal123
           filename: assets/metrics/base.svg
           base: header, activity, community, repositories, metadata
           base_indepth: yes
@@ -41,10 +41,10 @@ jobs:
       # 2 · Language breakdown
       # ────────────────────────────────────────────────
       - name: Languages
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: manav-agarwal
+          user: manavagarwal123
           filename: assets/metrics/languages.svg
           base: ""
           plugin_languages: yes
@@ -61,10 +61,10 @@ jobs:
       # 3 · Contribution calendar
       # ────────────────────────────────────────────────
       - name: Calendar
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: manav-agarwal
+          user: manavagarwal123
           filename: assets/metrics/calendar.svg
           base: ""
           plugin_calendar: yes
@@ -75,10 +75,10 @@ jobs:
       # 4 · Coding habits & schedules
       # ────────────────────────────────────────────────
       - name: Habits
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: manav-agarwal
+          user: manavagarwal123
           filename: assets/metrics/habits.svg
           base: ""
           plugin_habits: yes
@@ -93,10 +93,10 @@ jobs:
       # 5 · Starred repos
       # ────────────────────────────────────────────────
       - name: Stars
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: manav-agarwal
+          user: manavagarwal123
           filename: assets/metrics/stars.svg
           base: ""
           plugin_stars: yes
