@@ -57,58 +57,44 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="52%" valign="top">
+<td width="50%" valign="top">
 
 ## 🧠 &nbsp;About Me
 
-- 🎓 **B.E. in AI & Machine Learning** — Chandigarh University (2023–2027)
-- 💼 **ML Intern @ Microsoft AICTE** — Azure ML, Pipelines, Model Deployment
-- 📄 **3× Published Researcher** — Springer & IJSRD (Nanorobots, CV, IoT)
-- 🧠 Building **Multi-Agent AI** with CrewAI, LangGraph & MCP
-- ⚡ **600+ DSA Problems** across LeetCode, Codeforces, CodeChef
-- 🔬 Currently exploring **RAG Pipelines, LoRA Fine-tuning & AI Safety**
-- 📍 Punjab, India 🇮🇳
+<br/>
+
+<table>
+<tr><td>🎓</td><td><b>B.E. AI & ML</b> · Chandigarh University · 2023–27</td></tr>
+<tr><td>💼</td><td><b>ML Intern</b> · Microsoft AICTE · Azure ML</td></tr>
+<tr><td>📄</td><td><b>3× Published</b> · Springer & IJSRD</td></tr>
+<tr><td>🏆</td><td><b>Hackathon Winner</b> · Build with AI Shipathon</td></tr>
+<tr><td>🥇</td><td><b>Top 50</b> · Microsoft AlgoVerse</td></tr>
+<tr><td>☁️</td><td><b>Azure Fundamentals</b> Certified</td></tr>
+<tr><td>🤖</td><td><b>Google Generative AI</b> Certified</td></tr>
+<tr><td>⚡</td><td><b>600+ DSA</b> Problems Solved</td></tr>
+<tr><td>📍</td><td>Punjab, India 🇮🇳</td></tr>
+</table>
+
+<br/>
 
 > *"Building AI that actually ships."* 🚀
 
 </td>
 <td width="4%"></td>
-<td width="44%" valign="top">
-
-## ⚡ &nbsp;Quick Snapshot
-
-<br/>
-
-| | |
-|---|---|
-| 🎓 | **B.E. AI & ML** — Chandigarh University `2023–27` |
-| 💼 | **ML Intern** — Microsoft AICTE · Azure ML |
-| 🔬 | **3 Springer Papers** — AI · CV · IoT |
-| 🏆 | **Hackathon Winner** — Build with AI Shipathon |
-| 🥇 | **Top 50** — Microsoft AlgoVerse |
-| ☁️ | **Azure Fundamentals** Certified |
-| 🤖 | **Google Generative AI** Certified |
-| 💡 | **600+ DSA** Problems Solved |
-| 📦 | Open to **research collabs & AI projects** |
-
-<br/>
+<td width="46%" valign="top">
 
 ## 🎯 &nbsp;Now Building
 
 <br/>
 
-```
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│  🤖  Multi-Agent AI systems (CrewAI + LangGraph)│
-│  🔗  RAG pipelines with LlamaIndex + ChromaDB   │
-│  🌐  MCP integrations for agentic workflows     │
-│  ⚙️   Azure ML production deployment            │
-│  📝  Research Paper #4                          │
-│  🌍  Open Source contributions                  │
-│                                                 │
-└─────────────────────────────────────────────────┘
-```
+<table>
+<tr><td>🤖</td><td>Multi-Agent AI · CrewAI + LangGraph</td></tr>
+<tr><td>🔗</td><td>RAG Pipelines · LlamaIndex + ChromaDB</td></tr>
+<tr><td>🌐</td><td>MCP integrations for agentic workflows</td></tr>
+<tr><td>⚙️</td><td>Azure ML production deployment</td></tr>
+<tr><td>📝</td><td>Research Paper #4</td></tr>
+<tr><td>🌍</td><td>Open Source contributions</td></tr>
+</table>
 
 <br/>
 
