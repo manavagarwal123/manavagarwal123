@@ -61,73 +61,57 @@
 
 ## 🧠 &nbsp;About Me
 
-```python
-#!/usr/bin/env python3
-# manav_agarwal.py — Who am I?
-
-class ManavAgarwal:
-    """
-    AI Engineer | ML Engineer | Software Engineer
-    Building systems where intelligence meets scale.
-    """
-
-    IDENTITY = {
-        "name"      : "Manav Agarwal",
-        "role"      : ["AI Engineer", "ML Engineer",
-                       "Software Engineer"],
-        "university": "Chandigarh University",
-        "degree"    : "B.E. AI & Machine Learning",
-        "batch"     : "2023 → 2027",
-        "location"  : "Punjab, India 🇮🇳",
-    }
-
-    STRENGTHS = [
-        "System Design",
-        "Backend Engineering",
-        "Machine Learning",
-        "LLM / Agentic AI",
-        "Computer Vision",
-        "Research & Publications",
-    ]
-
-    EXPERIENCE = {
-        "Microsoft AICTE": {
-            "role"  : "Machine Learning Intern",
-            "stack" : ["Azure ML", "Pipelines",
-                       "Hyperparameter Tuning",
-                       "Model Deployment"],
-        }
-    }
-
-    RESEARCH = {
-        "publisher" : "Springer",
-        "papers"    : 3,
-        "domains"   : [
-            "AI Nanorobots",
-            "CNN Eye Disease Detection",
-            "IoT Water Level Monitoring",
-        ],
-    }
-
-    DSA = {"solved": "600+", "platforms": ["LeetCode",
-           "Codeforces", "CodeChef", "HackerRank"]}
-
-    def current_focus(self):
-        return [
-            "Multi-Agent AI with CrewAI + LangGraph",
-            "RAG Pipelines & Vector DBs",
-            "MCP — Model Context Protocol",
-            "LLM Fine-tuning (LoRA, RLHF)",
-            "Production AI on Azure",
-        ]
-
-    def __repr__(self):
-        return "Building AI that actually ships. 🚀"
-
-
-me = ManavAgarwal()
-print(me)
-# → Building AI that actually ships. 🚀
+```
+╔══════════════════════════════════════════════════════════════╗
+║  ██╗   ██╗  █████╗  ███╗   ██╗  █████╗  ██╗   ██╗         ║
+║  ████╗ ████║██╔══██╗████╗  ██║██╔══██╗██║   ██║           ║
+║  ██╔████╔██║███████║██╔██╗ ██║███████║██║   ██║           ║
+║  ██║╚██╔╝██║██╔══██║██║╚██╗██║██╔══██║╚██╗ ██╔╝           ║
+║  ██║ ╚═╝ ██║██║  ██║██║ ╚████║██║  ██║ ╚████╔╝            ║
+║  ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝            ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  > SYSTEM BOOT — manav.ai v2026.6                            ║
+║                                                              ║
+║  IDENTITY                                                    ║
+║  ├─ Name       Manav Agarwal                                 ║
+║  ├─ Role       AI · ML · Software Engineer                   ║
+║  ├─ University Chandigarh University                         ║
+║  ├─ Degree     B.E. AI & Machine Learning                    ║
+║  ├─ Batch      2023 → 2027                                   ║
+║  └─ Location   Punjab, India 🇮🇳                              ║
+║                                                              ║
+║  MODULES LOADED                                              ║
+║  ├─ 🧠 System Design ·········· ████████████░░  92%          ║
+║  ├─ ⚙️  Backend Engineering ···· ███████████░░░  88%          ║
+║  ├─ 🤖 Machine Learning ······· ████████████░░  94%          ║
+║  ├─ 🔗 LLM / Agentic AI ······ ███████████░░░  90%          ║
+║  ├─ 👁️  Computer Vision ········ ██████████░░░░  85%          ║
+║  └─ 📄 Research & Publishing ·· ████████████░░  93%          ║
+║                                                              ║
+║  EXPERIENCE                                                  ║
+║  └─ Microsoft AICTE · ML Intern                              ║
+║     └─ Azure ML │ Pipelines │ Deployment                     ║
+║                                                              ║
+║  RESEARCH                                                    ║
+║  ├─ Publisher   Springer + IJSRD                              ║
+║  ├─ Papers     3 peer-reviewed                                ║
+║  └─ Domains    Nanorobots │ CV │ IoT                          ║
+║                                                              ║
+║  DSA_ENGINE                                                  ║
+║  └─ 600+ problems │ LC │ CF │ CC │ HR                        ║
+║                                                              ║
+║  CURRENT_PROCESS                                             ║
+║  ├─ Multi-Agent AI (CrewAI + LangGraph)                      ║
+║  ├─ RAG Pipelines & Vector DBs                               ║
+║  ├─ MCP — Model Context Protocol                             ║
+║  ├─ LLM Fine-tuning (LoRA, RLHF)                            ║
+║  └─ Production AI on Azure                                   ║
+║                                                              ║
+║  STATUS ● ONLINE                                             ║
+║  > Building AI that actually ships. 🚀                       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 </td>
