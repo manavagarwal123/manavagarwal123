@@ -21,7 +21,7 @@ jobs:
       # 1 · Base profile: header + activity + community
       # ────────────────────────────────────────────────
       - name: Base Metrics
-        uses: lowlighter/metrics@v3.34
+        uses: lowlighter/metrics@v4
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: manavagarwal123
@@ -41,7 +41,7 @@ jobs:
       # 2 · Language breakdown
       # ────────────────────────────────────────────────
       - name: Languages
-        uses: lowlighter/metrics@v3.34
+        uses: lowlighter/metrics@v4
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: manavagarwal123
@@ -61,7 +61,7 @@ jobs:
       # 3 · Contribution calendar
       # ────────────────────────────────────────────────
       - name: Calendar
-        uses: lowlighter/metrics@v3.34
+        uses: lowlighter/metrics@v4
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: manavagarwal123
@@ -75,7 +75,7 @@ jobs:
       # 4 · Coding habits & schedules
       # ────────────────────────────────────────────────
       - name: Habits
-        uses: lowlighter/metrics@v3.34
+        uses: lowlighter/metrics@v4
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: manavagarwal123
@@ -93,7 +93,7 @@ jobs:
       # 5 · Starred repos
       # ────────────────────────────────────────────────
       - name: Stars
-        uses: lowlighter/metrics@v3.34
+        uses: lowlighter/metrics@v4
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: manavagarwal123
